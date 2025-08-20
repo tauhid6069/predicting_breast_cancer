@@ -44,8 +44,8 @@ The notebook demonstrates end-to-end data preprocessing, visualization, feature 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/tauhid6069/predicting_breast_cancer.git
+   cd predicting_breast_cancer
    ```
 2. Install the dependencies:
    ```bash
